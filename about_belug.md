@@ -1,4 +1,6 @@
-title: About Bellevue Linux Users Group
+---
+Title: About Bellevue Linux Users Group
+---
 
 Bellevue Linux Users Group (BELUG) was established in early 2004 for the
 purpose of promoting the study and use of Linux and other free software in

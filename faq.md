@@ -1,4 +1,6 @@
+---
 title: Bellevue Linux Users Group
+---
 
 ### Frequently Asked Questions (FAQ)
 

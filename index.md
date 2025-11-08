@@ -1,4 +1,6 @@
+---
 Title: Bellevue Linux Users Group
+---
 
 Welcome to the Bellevue Linux Users Group (BELUG) website.
 BELUG is dedicated to promoting an interest in

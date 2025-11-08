@@ -1,4 +1,6 @@
+---
 Title: Major Corporations With Headquarters in Bellevue, Washington
+---
 
 Bellevue, Washington is home to numerous innovative and influential
 corporations, most of which are in the so-called *high tech* fields and many of

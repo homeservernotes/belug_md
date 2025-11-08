@@ -1,4 +1,6 @@
+---
 title: Recommended Open Source Software
+---
 
 These are software packages that are mentioned frequently by the BELUG members.
 
