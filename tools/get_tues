@@ -1,0 +1,11 @@
+#!/bin/bash
+zoomlink='https://us02web.zoom.us/j/131116407?pwd=OFkwZzZWMVhDdlhMTU91K2lOVkQvZz09'
+year=$1
+echo "### $year Meeting Schedule:"
+echo ""
+for month in {1..12}; do
+    sec_tues=$(cal $month $year | awk 'NR==4 {print $3}')
+    [ "$sec_tues" -lt 8 ] && ((sec_tues+=7))
+    name=$(cal $month $year | awk 'NR==1 {print $1}')
+    echo "- Tuesday, $name ${sec_tues}th in person and on [Zoom]($zoomlink)"
+done
