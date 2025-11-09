@@ -1,5 +1,5 @@
 ---
-Title: Bellevue, WA: A Brief Introduction
+title: "Bellevue, WA: A Brief Introduction"
 ---
 
 Bellevue is a unique city that is located near Seattle in western Washington

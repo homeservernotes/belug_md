@@ -1,5 +1,6 @@
 ---
 title: Bellevue Linux Users Group
+layout: html-template
 ---
 
 ### Frequently Asked Questions (FAQ)

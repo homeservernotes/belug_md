@@ -1,5 +1,6 @@
 ---
-Title: Bellevue Linux Users Group
+title: Bellevue Linux Users Group
+layout: html-template
 ---
 
 Welcome to the Bellevue Linux Users Group (BELUG) website.

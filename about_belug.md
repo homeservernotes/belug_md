@@ -1,5 +1,6 @@
 ---
-Title: About Bellevue Linux Users Group
+title: About Bellevue Linux Users Group
+layout: html-template
 ---
 
 Bellevue Linux Users Group (BELUG) was established in early 2004 for the

@@ -1,5 +1,6 @@
 ---
-Title: Bellevue Linux Users Group
+title: Bellevue Linux Users Group
+layout: html-template
 ---
 
 Meetings have been consistently held since February 2004!
