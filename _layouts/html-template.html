@@ -1,12 +1,12 @@
 ---
 ---
 <!DOCTYPE html>
-<html$ifdef(lang)$ lang="$lang$"$endif$>
+<html lang="{{ site.lang }}">
     <head>
         <meta charset="utf-8" /> 
         <meta name="viewport" content="width=device-width,initial-scale=1" />
         <meta name="copyright" content="{{ site.copyright }}" />
-        <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+        <link rel="stylesheet" href="{{ '/style.css' | relative_url }}" />
         <title>{{ page.title }}</title>
 
     </head>
@@ -27,7 +27,7 @@
                 {{ content }}
             </main>
             <footer>
-                <p class="copyright">Copyright &#169; $copyright$</p>
+                <p class="copyright">Copyright &#169; {{ site.copyright }}</p>
             </footer>
         </div>
     </body>
