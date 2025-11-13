@@ -79,6 +79,7 @@ FAQ](faq.html) and [BELUG Meetings](meetings.html).
     [*25 Reasons to Convert to
     Linux*](http://www.linfo.org/reasons_to_convert.html), The Linux
     Information Project, January 2006.
+
 [^2]: Although most members live in Bellevue, BELUG meetings attract
     participants from throughout the greater Seattle metropolitan area.
 
