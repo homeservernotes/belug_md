@@ -1,1 +1,6 @@
-copyright: Bellevue Linux. All Rights Reserved.
+copyright: 2004 - 2025 Bellevue Linux. All Rights Reserved.
+title: Bellevue Linux Users Group
+css: style.cs
+lang: en-US
+
+exclude: [README.md, minima.gemspec, tools]
