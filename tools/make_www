@@ -1,14 +1,15 @@
 #!/bin/bash
-mkdir -p _lowdown
 export copyright="2004 - $(date +%Y) Bellevue Linux. All Rights Reserved."
+export OUTPUT_DIR=_lowdown
 
-cp style.css bg.webp _lowdown
+mkdir -p ${OUTPUT_DIR}
+cp style.css bg.webp ${OUTPUT_DIR}
 
-find . -type f -name "*.md" -exec bash -c 'lowdown \
+find . -name README.md -prune -o -type f -name "*.md" -exec bash -c 'lowdown \
     --template 'tools/html-template.lowdown' \
     -m "title=Bellevue Linux Users Group" \
     -m "css=/style.css" \
     -m "copyright=$copyright" \
     -m "lang=en-US" \
     -s \
-    "$0" > "_lowdown/${0%.md}.html"' {} \;
+    "$0" > "${OUTPUT_DIR}/${0%.md}.html"' {} \;
