@@ -1,6 +1,6 @@
 copyright: 2004 - 2025 Bellevue Linux. All Rights Reserved.
 title: Bellevue Linux Users Group
-css: style.cs
+css: /style.css
 lang: en-US
 
-exclude: [README.md, minima.gemspec, tools]
+exclude: [README.md, belug_md.gemspec, tools]
