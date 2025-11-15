@@ -13,6 +13,6 @@ Run "bundle exec jekyll build" to create the html files in directory "_site" .  
 ## notes about lowdown
 Because this repository includes an html template the installed lowdown executable will need to support templating.   The lowdown provided by "apt get" on Ubuntu 25.04 does not support templating.   Build the latest lowdown as follows:
 
----
+``` bash
 ls
----
+```
