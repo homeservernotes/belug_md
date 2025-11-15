@@ -11,5 +11,5 @@ Run `tools/make_www` to generate html files in directory `_lowdown`. Run `tools/
 Run `bundle exec jekyll build` to create the html files in directory `_site` .   Run `bundle exec jekyll serve -H 0.0.0.0` to serve the site on port 4000.  View in browser.
 
 ## notes about lowdown
-Because the `lowdown` version in Ubuntu 25.04 does not support templating, the repository includes a script, `tools/build_lowdown.sh` to build `lowdown` from source.
+Because the `lowdown` version in Ubuntu 25.04 does not support templating, the repository includes a script, `tools/build_lowdown.sh`, that builds `lowdown` from source.
 
