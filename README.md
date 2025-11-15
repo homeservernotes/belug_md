@@ -13,3 +13,6 @@ Run `bundle exec jekyll build` to create the html files in directory `_site` .  
 ## notes about lowdown
 Because the `lowdown` version in Ubuntu 25.04 does not support templating, the repository includes a script, `tools/build_lowdown.sh`, that builds `lowdown` from source.
 
+## notes about jekyll
+Because the `lowdown` version in Ubuntu 25.04 does not support templating, the repository includes a script, `[tools/build_lowdown.sh](https://raw.githubusercontent.com/homeservernotes/belug_md/refs/heads/main/tools/build_lowdown.sh) `, that builds `lowdown` from source.
+
