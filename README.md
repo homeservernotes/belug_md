@@ -14,6 +14,6 @@ Run `bundle exec jekyll build` to create the html files in directory `_site` .  
 Because the `lowdown` version in Ubuntu 25.04 does not support templating, the repository includes a script, [tools/build_lowdown.sh](https://raw.githubusercontent.com/homeservernotes/belug_md/refs/heads/main/tools/build_lowdown.sh), that builds `lowdown` from source.
 
 ## notes about jekyll
-The repository includes a script, [tools/install_jekyll.sh](https://raw.githubusercontent.com/homeservernotes/belug_md/refs/heads/main/tools/install_jekyll.sh) to install jekyll.  The script should be run from the top level directory in the repository.
+The repository includes a script, [tools/install_jekyll.sh](https://raw.githubusercontent.com/homeservernotes/belug_md/refs/heads/main/tools/install_jekyll.sh), that installs jekyll.  This script should be run from the top level directory in the repository.
 
 
