@@ -17,4 +17,6 @@ Because the `lowdown` version in Ubuntu 25.04 does not support templating, the r
 The repository includes a script, [tools/install_jekyll.sh](https://raw.githubusercontent.com/homeservernotes/belug_md/refs/heads/main/tools/install_jekyll.sh), that installs jekyll.  This script should be run from the top level directory in the repository.
 
 ## notes about this project
-This project began as a collection of markdown files, one css file, one html template and a script that calls `lowdown` to collect them all into a static web site.   That work remains intact with only minor changes.   In addition, the project now provides the ability to build the same static web site using jekyll.   The jekyll option uses the same markdown files, the same css file and a slightly modified html template file.  This shows that lowdown and jekyll (and probably some other static site generators) do basically the same thing.
+This project began as a collection of markdown files, one css file, one html template and a script that calls `lowdown` to collect them all into a static web site.   That work remains intact with only minor changes.   
+
+In addition, the project now provides the ability to build the same static web site using jekyll.   The jekyll option uses the same markdown files, the same css file and a slightly modified html template file.  This shows that lowdown and jekyll (and probably some other static site generators) do basically the same thing.
