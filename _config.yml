@@ -3,4 +3,4 @@ title: Bellevue Linux Users Group
 css: /style.css
 lang: en-US
 
-exclude: [README.md, belug_md.gemspec, tools]
+exclude: [README.md, belug_md.gemspec, tools, ruby, .bundle]
