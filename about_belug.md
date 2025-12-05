@@ -58,6 +58,15 @@ start creative and public service projects related to free software or to
 computers in general. In many cases, BELUG can provide a variety of types of
 assistance for such projects.
 
+Additional information about BELUG is available on the pages [BELUG
+FAQ](faq.html) and [BELUG Meetings](meetings.html).
+
+A new meeting series about home internet servers(HIS) and home labs has been started.
+These meet on the first and third Thursdays of each month.
+
+Additional information about the HIS meetings is available on the pages 
+[HIS Meetings](his_meetings.html).
+
 BELUG's premier project is [The Linux Information
 Project](http://www.linfo.org), which was launched in 2004 for the purposes of:
 
@@ -71,9 +80,6 @@ information modules) project was launched in May 2006. This project has
 developed a simple model that describes content-rich websites that maximize
 usefulness for the largest possible audience and a set of largely intuitive
 guidelines for implementing the model.
-
-Additional information about BELUG is available on the pages [BELUG
-FAQ](faq.html) and [BELUG Meetings](meetings.html).
 
 [^1]: For a full listing of the benefits of Linux and other free software, see:
     [*25 Reasons to Convert to

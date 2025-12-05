@@ -20,18 +20,23 @@ and on [Zoom](https://us02web.zoom.us/j/131116407?pwd=OFkwZzZWMVhDdlhMTU91K2lOVk
 
 ### 2025 Meeting Schedule:
 
-- Tuesday, January 14th in-person and on [Zoom](https://us02web.zoom.us/j/131116407?pwd=OFkwZzZWMVhDdlhMTU91K2lOVkQvZz09)
-- Tuesday, February 11th in-person and on [Zoom](https://us02web.zoom.us/j/131116407?pwd=OFkwZzZWMVhDdlhMTU91K2lOVkQvZz09)
-- Tuesday, March 11th in-person and on [Zoom](https://us02web.zoom.us/j/131116407?pwd=OFkwZzZWMVhDdlhMTU91K2lOVkQvZz09)
-- Tuesday, April 15th in-person and on [Zoom](https://us02web.zoom.us/j/131116407?pwd=OFkwZzZWMVhDdlhMTU91K2lOVkQvZz09)
-- Tuesday, May 13th in-person and on [Zoom](https://us02web.zoom.us/j/131116407?pwd=OFkwZzZWMVhDdlhMTU91K2lOVkQvZz09)
-- Tuesday, June 10th in-person and on [Zoom](https://us02web.zoom.us/j/131116407?pwd=OFkwZzZWMVhDdlhMTU91K2lOVkQvZz09)
-- Tuesday, July 8th in-person and on [Zoom](https://us02web.zoom.us/j/131116407?pwd=OFkwZzZWMVhDdlhMTU91K2lOVkQvZz09)
-- Tuesday, August 12th in-person and on [Zoom](https://us02web.zoom.us/j/131116407?pwd=OFkwZzZWMVhDdlhMTU91K2lOVkQvZz09)
-- Tuesday, September 9th in-person and on [Zoom](https://us02web.zoom.us/j/131116407?pwd=OFkwZzZWMVhDdlhMTU91K2lOVkQvZz09)
-- Tuesday, October 14th in-person and on [Zoom](https://us02web.zoom.us/j/131116407?pwd=OFkwZzZWMVhDdlhMTU91K2lOVkQvZz09)
-- Tuesday, November 11th in-person and on [Zoom](https://us02web.zoom.us/j/131116407?pwd=OFkwZzZWMVhDdlhMTU91K2lOVkQvZz09)
 - Tuesday, December 9th in-person and on [Zoom](https://us02web.zoom.us/j/131116407?pwd=OFkwZzZWMVhDdlhMTU91K2lOVkQvZz09)
+
+
+### 2026 Meeting Schedule:
+
+- Tuesday, January 13th in person and on [Zoom](https://us02web.zoom.us/j/131116407?pwd=OFkwZzZWMVhDdlhMTU91K2lOVkQvZz09)
+- Tuesday, February 10th in person and on [Zoom](https://us02web.zoom.us/j/131116407?pwd=OFkwZzZWMVhDdlhMTU91K2lOVkQvZz09)
+- Tuesday, March 10th in person and on [Zoom](https://us02web.zoom.us/j/131116407?pwd=OFkwZzZWMVhDdlhMTU91K2lOVkQvZz09)
+- Tuesday, April 14th in person and on [Zoom](https://us02web.zoom.us/j/131116407?pwd=OFkwZzZWMVhDdlhMTU91K2lOVkQvZz09)
+- Tuesday, May 12th in person and on [Zoom](https://us02web.zoom.us/j/131116407?pwd=OFkwZzZWMVhDdlhMTU91K2lOVkQvZz09)
+- Tuesday, June 9th in person and on [Zoom](https://us02web.zoom.us/j/131116407?pwd=OFkwZzZWMVhDdlhMTU91K2lOVkQvZz09)
+- Tuesday, July 14th in person and on [Zoom](https://us02web.zoom.us/j/131116407?pwd=OFkwZzZWMVhDdlhMTU91K2lOVkQvZz09)
+- Tuesday, August 11th in person and on [Zoom](https://us02web.zoom.us/j/131116407?pwd=OFkwZzZWMVhDdlhMTU91K2lOVkQvZz09)
+- Tuesday, September 8th in person and on [Zoom](https://us02web.zoom.us/j/131116407?pwd=OFkwZzZWMVhDdlhMTU91K2lOVkQvZz09)
+- Tuesday, October 13th in person and on [Zoom](https://us02web.zoom.us/j/131116407?pwd=OFkwZzZWMVhDdlhMTU91K2lOVkQvZz09)
+- Tuesday, November 10th in person and on [Zoom](https://us02web.zoom.us/j/131116407?pwd=OFkwZzZWMVhDdlhMTU91K2lOVkQvZz09)
+- Tuesday, December 8th in person and on [Zoom](https://us02web.zoom.us/j/131116407?pwd=OFkwZzZWMVhDdlhMTU91K2lOVkQvZz09)
 
 
 [North Bellevue Community Center](https://parks.bellevuewa.gov/community-centers/north-bellevue-community-center)  
